@@ -1,3 +1,22 @@
+
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PromptLite/promptlite-assets/main/logo-square.png" alt="PromptLite Logo" width="120" />
+</p>
+
+<h1 align="center">🌐 PromptLite Automation Hub</h1>
+
+<p align="center">
+  📦 The Central Repository for All Things Automation by PromptLite 🚀  
+</p>
+
+<p align="center">
+  <a href="https://nas.io/otomasi-bisnis-id/home">🇮🇩 Otomasi Bisnis Indonesia</a> • 
+  <a href="https://nas.io/automation-pro-id/home">🌍 Automation Pro Community</a> • 
+  <a href="https://promptlite.id">🧠 promptlite.id</a>
+</p>
+
+---
 # 🧠 PromptLite Automation Hub
 
 Welcome to the **PromptLite Automation Hub** — your centralized gateway to powerful, plug-and-play automation tools for Southeast Asia’s growing business ecosystem.
@@ -8,6 +27,38 @@ Selamat datang di **PromptLite Automation Hub** — pusat utama untuk mengakses 
 > 💼 Memberdayakan solopreneur, UMKM, agensi, dan edukator dengan AI + Otomasi.
 
 ---
+
+## 🇮🇩 Tentang Repositori Ini (Bahasa Indonesia)
+
+**PromptLite Automation Hub** adalah pusat repositori utama untuk semua proyek otomasi dari PromptLite. Di sini kamu bisa menemukan:
+
+- 📂 Kumpulan workflow n8n siap pakai
+- 🧠 Koleksi prompt AI dan RAG tools
+- ⚙️ Proyek eksklusif internal dari PromptLite
+- 📚 Dokumentasi dua bahasa (Bahasa + English)
+
+Repositori ini cocok untuk UMKM, freelancer, agensi, dan edukator yang ingin menghemat waktu & otomatisasi bisnis mereka.
+
+---
+
+## 🇬🇧 About This Repository (English)
+
+**PromptLite Automation Hub** is the main index and gateway to all PromptLite open-source automation tools. It includes:
+
+- 📂 Curated n8n workflow templates
+- 🧠 AI system prompts and RAG tools
+- ⚙️ Internal PromptLite-powered automation stacks
+- 📚 Bilingual documentation (Bahasa + English)
+
+Built for solopreneurs, agencies, and educators aiming to save time and scale with automation.
+
+---
+
+> 🛠️ Maintained by PromptLite – Part of the Indonesian Business Automation Ecosystem  
+> 🧭 For full roadmap and tools, visit: [promptlite.id](https://promptlite.id)
+
+---
+
 
 ## 📦 Repository Directory / Direktori Repositori
 
